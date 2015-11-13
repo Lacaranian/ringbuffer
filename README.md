@@ -1,2 +1,2 @@
 # ringbuffer
-Simple Ring Buffer
+A simple Ring Buffer
